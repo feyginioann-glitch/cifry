@@ -1,0 +1,17 @@
+{
+  "name": "Цифры в клетку",
+  "short_name": "Цифры",
+  "description": "Головоломка на тетрадном листе: зачёркивайте соседние цифры, равные или дающие в сумме 10.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#dde3ea",
+  "theme_color": "#2346a8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
